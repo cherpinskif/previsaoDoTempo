@@ -1,0 +1,21 @@
+
+    <div class="row ">
+    <div class="text-center ">
+        <div class="row border border-primary">
+        <label for="">BIN2DEC</label>
+        </div>
+    </div>
+    
+    <div class="col-2 border border-primary position-absolute top-50 start-50 translate-middle" >
+        <div class="row ">
+                <input class="text-center form-floating mb-3 form-control my-2" type="text" name="" id="cxTextoUm">
+                
+                <button class="btn btn-warning" id="btnCalculo" >Converter</button>
+            
+                <div class="my-3">
+                    <label class="d-flex justify-content-center my-3 form-floating mb-5 form-control " id="calculoBinario"></label>     
+                </div>
+        </div>
+    </div>
+    
+    <div class="col-5 "></div>
