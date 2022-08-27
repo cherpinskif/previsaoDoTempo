@@ -29,6 +29,5 @@ document.getElementById("consultaCidade").onclick = function(){
 		 Temperatura Mínima: ${dados.results.forecast[0].min}ºC
 		`
 		}
-		console.log(dados.results.forecast[0])
 	  }
 	}
